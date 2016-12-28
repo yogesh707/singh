@@ -1,0 +1,32 @@
+Reference Type variable -
+
+obj1={name:yogesh, age:21, hobby: 'riding'}
+
+object{name:"yogesh", age:21, hobby: 'riding'}
+obj2=obj1
+object {name:"yogesh", age:21, hobby: "riding"}
+obj2
+object {name: "yogesh", age:21, hobby: "riding"}
+obj2.name='ram'
+"ram"
+object{name: "ram", age:21, hobby:"riding"}
+
+
+
+
+
+primitive type
+
+
+var a = 10
+undefined
+var b=a
+undefined
+b
+10
+var b=6
+undefined
+a
+10
+b
+6

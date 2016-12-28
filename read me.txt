@@ -1,0 +1,8 @@
+types of variables in js:
+
+1.primitive type-stores each values in a diffent memory location. i.e indipendent memory location
+
+2.refernce type-a pointer points to the memory location of the values stored.
+
+the file shows the example of both the data type with reference to their memor allocation.
+
